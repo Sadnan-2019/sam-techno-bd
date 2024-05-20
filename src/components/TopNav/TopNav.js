@@ -33,7 +33,7 @@ const TopNav = () => {
             </div>
             <div className='   '>
               <a href='tel:+8801767564737' className="text-[10px] lg:text-xs   	">
-              +8801318588777  
+              +8801318588000  
               </a> 
               <p className="text-[10px] lg:text-xs  	  	">+8802222281712  </p>
             </div>
@@ -49,7 +49,7 @@ const TopNav = () => {
               <p className="text-[10px] lg:text-xs     	">
                 Email us
               </p>
-              <a href='mailto:info@leap.mrg.com.bd' className="text-[10px] lg:text-xs  	">info@leap.mrg.com.bd</a>
+              <a href='mailto:info@sam.com.bd' className="text-[10px] lg:text-xs  	">info@sam.com.bd</a>
             </div>
           </div>
           <div
