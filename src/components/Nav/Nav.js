@@ -33,24 +33,16 @@ const Nav = () => {
         <NavLink
           className="mx-1 text-white-600   font-bold   p-0 lg:text-blue-800"
           onClick={gotoBtn}
-          to="/home"
+          to="/about"
         >
-          SERVICES
+         ABOUT
         </NavLink>
       </li>
 
-      {/* <li className="nav-item p-2 	list-none">
-        <NavLink
-          onClick={() => setIsOpen(false)}
-          className={({ isActive }) => (isActive ? `${active}` : `${normal} `)}
-          to="/destination"
-        >
-          DESTINATION
-        </NavLink>
-      </li> */}
-      <li className="dropdown dropdown-hover hover:border-none   nav-item p-2 list-none  text-white    ">
+       
+      {/* <li className="dropdown dropdown-hover hover:border-none   nav-item p-2 list-none  text-white    ">
         <NavLink className="mx-1 text-white-600   font-bold   p-0 lg:text-blue-800">
-          DESTINATION
+          Services
         </NavLink>
 
         <ul
@@ -126,16 +118,25 @@ const Nav = () => {
           </li>
            
         </ul>
-      </li>
+      </li> */}
       
 
       <li className="nav-item p-2 list-none	">
         <NavLink
           onClick={() => setIsOpen(false)}
           className={({ isActive }) => (isActive ? `${active}` : `${normal}`)}
-          to="/about"
+          to="/services"
         >
-          ABOUT US
+          SERVICES
+        </NavLink>
+      </li>
+      <li className="nav-item p-2  	list-none">
+        <NavLink
+          onClick={() => setIsOpen(false)}
+          className={({ isActive }) => (isActive ? `${active}` : `${normal}`)}
+          to="/product"
+        >
+          PRODUCT
         </NavLink>
       </li>
 

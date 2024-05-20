@@ -11,10 +11,10 @@ const TopNav = () => {
           <div>
               <div>
             
-            <div className="flex   flex-col md:flex-row  justify-between px-10	 lx:px-12  py-4  items-center ">
+            <div className="flex   flex-col md:flex-row  justify-between px-10	 lx:px-12  py-4  items-center bg-[#123261]">
         <div>
           
-          <a href='/' className="py-4">
+          <a href='/' className="py-4 text-white">
           {/* <img  src={logo} className="w-32" alt="" /> */}
           sam techno bd
 
@@ -28,10 +28,10 @@ const TopNav = () => {
             className="flex items-center font-bold     gap-2"
             style={{ color: "white" }}
           >
-            <div className='text-shadow '>
-              <MdOutlinePhonelinkRing className="text-[10px]   lg:text-2xl   text-[#38639F]   " />
+            <div className='text-shadow text-white'>
+              <MdOutlinePhonelinkRing className="text-[10px]   lg:text-2xl      " />
             </div>
-            <div className='text-[#1c165a]  '>
+            <div className='   '>
               <a href='tel:+8801767564737' className="text-[10px] lg:text-xs   	">
               +8801318588777  
               </a> 
@@ -42,10 +42,10 @@ const TopNav = () => {
             className="flex items-center font-bold  gap-2"
             style={{ color: "white" }}
           >
-            <div className='text-shadow'>
-              <HiOutlineMailOpen className="ml-2 lg:ml-0 text-[10px] lg:text-2xl   	text-[#38639F]  " />
+            <div className='text-shadow text-white'>
+              <HiOutlineMailOpen className="ml-2 lg:ml-0 text-[10px] lg:text-2xl   	  " />
             </div>
-            <div className='text-[#38639F]'>
+            <div className=' '>
               <p className="text-[10px] lg:text-xs     	">
                 Email us
               </p>
@@ -56,7 +56,7 @@ const TopNav = () => {
             className="  sm:ml-7  lg:ml-0"
             style={{ color: "white" }}
           >
-             <div className="flex  justify-items-center items-center gap-2  text-[#38639F]">
+             <div className="flex  justify-items-center items-center gap-2  text-white">
           <a target="_blank" href='https://www.facebook.com/leap.physio/' >
             <FaFacebookSquare  className="text-[10px] lg:text-lg ml-2 text-shadow  " /></a>
           <BsLinkedin className="text-[10px] lg:text-lg ml-2 text-shadow " />
