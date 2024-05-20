@@ -1,0 +1,97 @@
+
+ 
+
+ 
+
+
+
+
+
+[
+     {
+       "id": "663a4a1a39e6daa0f80b71c1",
+       "img": "https://i.ibb.co/9pXqfJT/product2.jpg",
+       "name": "Dip Coating Machine",
+       "description":  
+         {
+           "specificationsone": "Minimum Withdrawal Rate-0.01 mm.s-1  ",
+           "specificationstwo": "Maximum Withdrawal Rate-50 mm s-1",
+           "specificationsthree": "Rate Reproducibility ±0.01% @ 1mms-1 ; ± 0.1% @ 10 mm.s-1 ; ± 0.3% @ 50 mm.s-1",
+           "specificationsfour": "Maximum Travel Distance 100 mm",
+           "specificationsfive": "Maximum Number of Cycles 1000 cycles",
+           "specificationssix": "Maximum Timer Duration 99:59:59 (HH:MM:SS)",
+           "specificationsseven": "Integrated Software Features",
+           "specificationseight": "Variable withdrawal speed Repeat cycles Crash detection",
+           "specificationsnine": "Programmes 20",
+           "specificationsten": "Power Supply DC 24V",
+           "specificationseleven": "Product Dimensions (W x H x D) 200 mm x 350 mm (450 mm fully extended) x 300 mm (7.87inch x 13.78inch, x 11.81inch)",
+           "specificationstwelve": "Weight 5.15kg",
+           "specificationsthirten": "Dip Coater Features High precision dip coating motor High Precision Motor"
+          }
+       
+     },
+     {
+       "id": "663a4a1a6632d38984f57908",
+       "img": "https://i.ibb.co/K90fj70/product1.jpg",
+       
+       "name": "RM3000 Test Unit",
+       "description":   {
+         "specificationsone": "Minimum Withdrawal Rate-0.01 mm.s-1  ",
+         "specificationstwo": "Maximum Withdrawal Rate-50 mm s-1",
+         "specificationsthree": "Rate Reproducibility ±0.01% @ 1mms-1 ; ± 0.1% @ 10 mm.s-1 ; ± 0.3% @ 50 mm.s-1",
+         "specificationsfour": "Maximum Travel Distance 100 mm",
+         "specificationsfive": "Maximum Number of Cycles 1000 cycles",
+         "specificationssix": "Maximum Timer Duration 99:59:59 (HH:MM:SS)",
+         "specificationsseven": "Integrated Software Features",
+         "specificationseight": "Variable withdrawal speed Repeat cycles Crash detection",
+         "specificationsnine": "Programmes 20",
+         "specificationsten": "Power Supply DC 24V",
+         "specificationseleven": "Product Dimensions (W x H x D) 200 mm x 350 mm (450 mm fully extended) x 300 mm (7.87inch x 13.78inch, x 11.81inch)",
+         "specificationstwelve": "Weight 5.15kg",
+         "specificationsthirten": "Dip Coater Features High precision dip coating motor High Precision Motor"
+        }
+     },
+     {
+       "id": "663a4a1a22f68e8580831d0b",
+       "img": "https://i.ibb.co/PQZnVCp/product3.jpg",
+       "name": "Spin Coater Ossila",
+       "description": "male"
+     },
+     {
+       "id": "663a4a1a4e6e80b53ec98101",
+       "img": "https://i.ibb.co/DpspMP6/product4.png",
+       "name": "Petrol Engine Tranng Stand - ATCL-3014",
+      
+       "description": "female"
+     },
+     {
+       "id": "663a4a1aac436731fb8bb8c5",
+       "img": "https://i.ibb.co/p1tnJVw/product5.png",
+       "name": "Dds Calorimeter",
+       "description": "female"
+     },
+     {
+       "id": "663a4a1a4efba7cc0f378fd0",
+       "img": "https://i.ibb.co/mCt4J64/product6.jpg",
+       "name": "Hydraulic Braking Cutaway Model",
+       "description": "female"
+     },
+     {
+       "id": "663a4a1aa4fa0e786247c387",
+       "img": "https://i.ibb.co/2StrWVC/product7.jpg",
+       "name": "Bench Lathe c0632a",
+       "description": "female"
+     },
+     {
+       "id": "663a4a1a2258a0bc9dd59359",
+       "img": "https://i.ibb.co/gvYf7JQ/product8.png",
+       "name": "Power Steering with Recirculating Ball System Cutaway",
+       "description": "male"
+     },
+     {
+       "id": "663a4a1aa2c0a79fa73612aa",
+       "img": "https://i.ibb.co/R0C4kxR/product9.png",
+       "name": "Sokkia Introduces High-performance Manual Total Station iM-50",
+       "description": "male"
+     }
+   ]
