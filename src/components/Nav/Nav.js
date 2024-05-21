@@ -134,7 +134,7 @@ const Nav = () => {
         <NavLink
           onClick={() => setIsOpen(false)}
           className={({ isActive }) => (isActive ? `${active}` : `${normal}`)}
-          to="/product"
+          to="/allproduct"
         >
           PRODUCT
         </NavLink>

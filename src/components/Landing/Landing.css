@@ -29,7 +29,7 @@
          rgba(49, 16, 234, 0.01),
          rgba(0, 9, 10, 0.9)
        ),
-       url("../../assets//banner1.jpg");
+       url("../../assets/banner1.jpg");
      /* background-repeat: no-repeat;
          background-size: cover; */
      height: auto;
@@ -65,7 +65,7 @@
        rgba(193, 212, 192, 0.01),
        rgba(9, 27, 29, 0.9)
      ),
-       url("../../assets/banner3.jpg");
+       url("../../assets/banner1.jpg");
      /* background-repeat: no-repeat;
          background-size: cover; */  
      height: auto;

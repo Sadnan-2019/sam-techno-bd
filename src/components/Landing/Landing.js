@@ -172,7 +172,8 @@ const Landing = () => {
                   }`}
                 >
                   {" "}
-                  WTAERLILY HALL.
+                  The Most Modern and Luxurious Residential Hotel in The Whole of Mymensingh
+
                 </h2>
 
                 <h1
@@ -193,24 +194,20 @@ const Landing = () => {
                 </div>
               </div>
             </div>
-
             <div
               data-aos="fade-down"
               data-aos-easing="linear"
               data-aos-duration="1500"
             >
-              <svg
-                className=""
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 1440 320"
-              >
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
                 <path
                   fill="white"
-                  fill-opacity="50"
-                  d="M0,128L120,160C240,192,480,256,720,272C960,288,1200,256,1320,240L1440,224L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"
+                  fill-opacity="1"
+                  d="M0,288L120,266.7C240,245,480,203,720,208C960,213,1200,267,1320,293.3L1440,320L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"
                 ></path>
               </svg>
             </div>
+           
           </section>
         </div>
       </Slider>
