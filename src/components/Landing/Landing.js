@@ -69,20 +69,9 @@ const Landing = () => {
                   }`}
                 >
                   {" "}
-                  Trishal Convention Center (TCC) is a Business Organization.
-                </h2>
+                 </h2>
 
-                <div className="flex  gap-4 mt-10 text-center">
-                  <a
-                    href="/"
-                    className={`slide-text p-1 btn-sm lg:btn-md  lg:p-2 rounded-full  lg:text-lg font-bold  hover-button bg-gradient-to-r from-[#92468E] to-[#38235D] inline-flex  md:inline-flex items-center     border          text-white   ${
-                      currentSlideTwo === 0 ? "animatedpic" : ""
-                    }`}
-                  >
-                    MORE EXPLORE
-                    <BsArrowRight className="text-lg   lg:ml-2" />
-                  </a>
-                </div>
+                 
               </div>
 
               <div class="  sm:max-w-xs lg:max-w-xl text-left md:ml-8 lg:order-1 order-2   lg:mt-0  ">
@@ -101,10 +90,10 @@ const Landing = () => {
               data-aos-easing="linear"
               data-aos-duration="1500"
             >
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5000 2000">
                 <path
                   fill="white"
-                  fill-opacity="1"
+                  fill-opacity="0"
                   d="M0,288L120,266.7C240,245,480,203,720,208C960,213,1200,267,1320,293.3L1440,320L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"
                 ></path>
               </svg>
@@ -123,14 +112,13 @@ const Landing = () => {
                 >
                   {" "}
                   
-                  The Most Modern and Luxurious Residential Hotel in The Whole of Mymensingh
-                </h2>
+                 </h2>
 
                 <h1
                   className="mb-5 text-lg  lg:text-2xl max-w-lg mt-7 font-bold   md:text-[25px] poppins-t "
                   style={{ lineHeight: "120%", color: "white" }}
                 ></h1>
-
+{/* 
                 <div className="flex  gap-4 mt-10 text-center">
                   <a
                     href="/"
@@ -141,7 +129,7 @@ const Landing = () => {
                     MORE EXPLORE
                     <BsArrowRight className="text-lg   lg:ml-2" />
                   </a>
-                </div>
+                </div> */}
               </div>
             </div>
 
@@ -150,13 +138,19 @@ const Landing = () => {
               data-aos-easing="linear"
               data-aos-duration="1500"
             >
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+              <div
+              data-aos="fade-down"
+              data-aos-easing="linear"
+              data-aos-duration="1500"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5000 2000">
                 <path
                   fill="white"
-                  fill-opacity="1"
+                  fill-opacity="0"
                   d="M0,288L120,266.7C240,245,480,203,720,208C960,213,1200,267,1320,293.3L1440,320L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"
                 ></path>
               </svg>
+            </div>
             </div>
           </section>
         </div>
@@ -172,8 +166,7 @@ const Landing = () => {
                   }`}
                 >
                   {" "}
-                  The Most Modern and Luxurious Residential Hotel in The Whole of Mymensingh
-
+ 
                 </h2>
 
                 <h1
@@ -181,7 +174,7 @@ const Landing = () => {
                   style={{ lineHeight: "120%", color: "white" }}
                 ></h1>
 
-                <div className="flex  gap-4 mt-10 text-center">
+                {/* <div className="flex  gap-4 mt-10 text-center">
                   <a
                     href="/"
                     className={`slide-text btn-sm p-1 lg:btn-md lg:p-2 rounded-full  lg:text-lg font-bold  hover-button bg-gradient-to-r from-[#92468E] to-[#38235D] inline-flex  md:inline-flex items-center     border          text-white   ${
@@ -191,7 +184,7 @@ const Landing = () => {
                     MORE EXPLORE
                     <BsArrowRight className="text-lg   lg:ml-2" />
                   </a>
-                </div>
+                </div> */}
               </div>
             </div>
             <div
@@ -199,13 +192,19 @@ const Landing = () => {
               data-aos-easing="linear"
               data-aos-duration="1500"
             >
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+               <div
+              data-aos="fade-down"
+              data-aos-easing="linear"
+              data-aos-duration="1500"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5000 2000">
                 <path
                   fill="white"
-                  fill-opacity="1"
+                  fill-opacity="0"
                   d="M0,288L120,266.7C240,245,480,203,720,208C960,213,1200,267,1320,293.3L1440,320L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"
                 ></path>
               </svg>
+            </div>
             </div>
            
           </section>
