@@ -24,7 +24,7 @@ const ProductDetails = (props) => {
                     src={img}
                     alt="Shoes"
                     className="  p-4  "
-                    style={{ height: "250px", borderRadius: "25px" }}
+                    style={{ height: "250px", width:"350px", borderRadius: "25px" }}
                   />
                 </figure>
                 <div className=" items-center text-center text-black p-4">

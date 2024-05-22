@@ -27,7 +27,9 @@ const Product = () => {
               Quia fugiat sit in iste officiis commodi quidem hic quas.
             </p>
           </div>
-<div className='text-black px-8	 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8'>
+
+          <div className='   '> 
+<div className='text-black px-10 py-10   grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8'>
 
 {datas.map((product,) => (
               <ProductDetails
@@ -35,6 +37,19 @@ const Product = () => {
                 product={product}
               ></ProductDetails>
             ))}
+</div>
+<div className=" px-5  py-5 flex justify-center">
+          <a href="">
+            <button
+              htmlFor="my-modal-6"
+              className="btn btn-md modal-button   text-[white] bg-gradient-to-r from-[#303640] to-[#103264]   animate-pulse    "
+              style={{ backgroundColor: "#453364" }}
+              onClick={allProduct}
+            >
+              More Product
+            </button>
+          </a>
+        </div>
 </div>
 
 {/* <a href="" class="flex mx-auto  justify-center text-indigo-700 border border-indigo-600 py-2 px-6 gap-2 rounded inline-flex items-center">
@@ -47,18 +62,7 @@ const Product = () => {
     </svg>
 </a> */}
 
-<div className="py-2 px-5   flex justify-center">
-          <a href="">
-            <button
-              htmlFor="my-modal-6"
-              className="btn btn-md modal-button mt-3 text-[white] bg-gradient-to-r from-[#303640] to-[#103264]   animate-pulse    "
-              style={{ backgroundColor: "#453364" }}
-              onClick={allProduct}
-            >
-              More Product
-            </button>
-          </a>
-        </div>
+
           </div>
      );
 };
