@@ -1,5 +1,8 @@
 import React from "react";
 import lab from "../../assets/LabEstablishment.png";
+import slaes from "../../assets/sales.png";
+import easyinstallation from "../../assets/easy-installation.png";
+import training from "../../assets/web.png";
 const Services = () => {
   return (
     <div className=" py-10">
@@ -41,14 +44,15 @@ const Services = () => {
         >
           <img
             class="object-cover w-32   lg:h-36 rounded-lg"
-            src={lab}
+            src={slaes}
             alt=""
           />
 
           <div class="ml-3 overflow-hidden">
             <h2 className="text-xs  text-black lg:text-2xl font-bold ">
               {" "}
-              Lab Establishment{" "}
+              Sales with Technial Support
+{" "}
             </h2>
           </div>
         </div>
@@ -60,14 +64,14 @@ const Services = () => {
         >
           <img
             class="object-cover w-32   lg:h-36 rounded-lg"
-            src={lab}
+            src={easyinstallation}
             alt=""
           />
 
           <div class="ml-3 overflow-hidden">
             <h2 className="text-xs  text-black lg:text-2xl font-bold ">
               {" "}
-              Lab Establishment{" "}
+              Quick Delivery & Installation{" "}
             </h2>
           </div>
         </div>
@@ -79,14 +83,14 @@ const Services = () => {
         >
           <img
             class="object-cover w-32   lg:h-36 rounded-lg"
-            src={lab}
+            src={training     }
             alt=""
           />
 
           <div class="ml-3 overflow-hidden">
             <h2 className="text-xs  text-black lg:text-2xl font-bold ">
               {" "}
-              Lab Establishment{" "}
+              Comprehensive Training{" "}
             </h2>
           </div>
         </div>
