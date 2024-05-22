@@ -35,6 +35,7 @@ const ProductDetails = (props) => {
                 <div className="py-2 px-5   flex justify-center">
           <a href="">
             <button
+            onClick={() => handleServiceDetails(id)}
               htmlFor="my-modal-6"
               className="btn btn-md modal-button mt-3 text-[white] bg-gradient-to-r from-[#303640] to-[#103264]    "
               style={{ backgroundColor: "#453364" }}
