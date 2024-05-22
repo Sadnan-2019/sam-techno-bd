@@ -6,6 +6,7 @@ import { Route, Routes } from 'react-router-dom';
 import Home from './components/Home/Home';
 import Footer from './components/Footer/Footer';
 import AllProduct from './components/AllProduct/AllProduct';
+import { ToastContainer } from 'react-toastify';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         
       </Routes>
       <Footer></Footer>
+      <ToastContainer></ToastContainer>
     </div>
   );
 }

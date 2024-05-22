@@ -1,4 +1,5 @@
 import React from 'react';
+import WhatsApp from '../WhatsApp/WhatsApp';
 
 const Footer = () => {
      return (
@@ -93,6 +94,7 @@ const Footer = () => {
       </div>
     </div>
   </footer> 
+  <WhatsApp></WhatsApp>
           </div>
      );
 };
