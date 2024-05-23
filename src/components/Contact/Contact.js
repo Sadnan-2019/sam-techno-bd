@@ -101,10 +101,10 @@ const Contact = () => {
                         Contact
                       </h3>
                       <p class="text-gray-600 dark:text-slate-400">
-                        Mobile: +1 (123) 456-7890
+                        Mobile: ++8801736776387
                       </p>
                       <p class="text-gray-600 dark:text-slate-400">
-                        Mail: tailnext@gmail.com
+                        Mail: samtandb2022@gmail.com
                       </p>
                     </div>
                   </li>

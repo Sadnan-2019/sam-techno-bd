@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
+import logo from "../../assets/icon.png";
 import { Transition } from "@headlessui/react";
 const Nav = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -84,7 +85,6 @@ const Nav = () => {
           <div className="container mx-auto flex justify-between items-center">
             <div className="text-white font-semibold text-xl">
               {/* <img src={logo} className="w-24 rounded-lg" alt="" /> */}
-              <p className="text-black">LOGO</p>
             </div>
             <div className="hidden md:flex space-x-4">
               {/* Add other sections here */}
