@@ -39,7 +39,7 @@ const Product = () => {
             ))}
 </div>
 <div className=" px-5  py-5 flex justify-center">
-          <a href="">
+       
             <button
               htmlFor="my-modal-6"
               className="btn btn-md modal-button   text-[white] bg-gradient-to-r from-[#303640] to-[#103264]   animate-pulse    "
@@ -48,7 +48,7 @@ const Product = () => {
             >
               More Product
             </button>
-          </a>
+          
         </div>
 </div>
 

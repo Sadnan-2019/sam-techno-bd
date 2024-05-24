@@ -34,7 +34,7 @@ const AllProductDetails = (props) => {
           </div>
 
           <div className="py-2 px-5   flex justify-center">
-            <a href="">
+             
               <button
               onClick={() => handleServiceDetails(id)}
                 htmlFor="my-modal-6"
@@ -43,7 +43,7 @@ const AllProductDetails = (props) => {
               >
                 Product Details
               </button>
-            </a>
+           
           </div>
         </div>
       </div>
