@@ -14,12 +14,7 @@ const Home = () => {
                <Product></Product>
                <Services></Services>
                <Partner></Partner>
-               <div class="flex items-center justify-center h-screen">
-  <div class="grid grid-cols-1 gap-4 place-items-center">
-    <div class="bg-blue-500 text-white p-4">div one</div>
-    <div class="bg-green-500 text-white p-4">two</div>
-  </div>
-</div>
+        
                <Contact></Contact>
           </div>
      );
