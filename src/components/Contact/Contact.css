@@ -1,0 +1,10 @@
+.contact{
+
+     background-image: linear-gradient(
+          to left,
+          rgba(49, 16, 234, 0.01),
+          rgba(0, 9, 10, 0.9)
+        ),
+        url("../../assets/banner1.jpg");
+
+}

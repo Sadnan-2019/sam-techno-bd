@@ -54,12 +54,12 @@ const Landing = () => {
     ],
   };
   return (
-    <div>
-      <div className="full-width-slider">
+    <div className="">
+      <div className="  full-width-slider">
         {/* <h2> Responsive </h2> */}
         <Slider {...settings} className="">
           <div className="  ">
-            <section className="landingone   blog h-auto      text-white">
+            <section className="landingone   blog      text-white">
               <div className="  md:py-20 py-10 lg:py-24 lg:mx-16 mx-8 grid grid-cols-1 lg:grid-cols-2  gap-5 justify-center items-center">
                 {/* <div className="slide-content sm:max-w-xs lg:max-w-xl text-left md:ml-8 lg:order-1 order-2   lg:mt-0 ">
                   <h2
@@ -72,15 +72,7 @@ const Landing = () => {
                   </h2>
                 </div> */}
 
-                <div class="  sm:max-w-xs lg:max-w-xl text-left md:ml-8 lg:order-1 order-2   lg:mt-0  ">
-                  <img
-                    // src={camera}
-                    alt=""
-                    className={`slide-text  md:text-[43px] font-bold text-[20px] text-left   text-transparent text-8xl bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600   ${
-                      currentSlideTwo === 0 ? "animatedpic" : ""
-                    }`}
-                  />
-                </div>
+              
               </div>
 
            
