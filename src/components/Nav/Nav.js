@@ -83,8 +83,8 @@ const Nav = () => {
 
         <nav className="lg:bg-gray-100 shadow-lg border-l-gray-100 p-4">
           <div className="container mx-auto flex justify-between items-center">
-            <div className="text-white font-semibold text-xl">
-              {/* <img src={logo} className="w-24 rounded-lg" alt="" /> */}
+            <div className="text-blue-900 font-bold text-3xl">
+              <h2>SAM TECHNOLOGY AND BUSINESS</h2>
             </div>
             <div className="hidden md:flex space-x-4">
               {/* Add other sections here */}

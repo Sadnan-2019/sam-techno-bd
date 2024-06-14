@@ -33,7 +33,7 @@ const Contact = () => {
         <div class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8 lg:py-20">
           <div class="mb-4">
             <div class="mb-6 max-w-3xl text-center sm:text-center md:mx-auto md:mb-12">
-              <h1 class="  font-bold text-2xl uppercase tracking-wide ">
+              <h1 class="  font-bold text-3xl uppercase tracking-wide ">
                 Contact
               </h1>
             </div>

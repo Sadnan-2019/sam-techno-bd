@@ -10,7 +10,7 @@ const Partner = () => {
      return (
           <div>
                    <div className=" md:mx-16 lg:mx-24 mx-8 py-12">
-        <h2 className="   text-black text-xl text-center   font-bold poppins-b lg:text-2xl  " data-aos="fade-up"
+        <h2 className="   text-black text-xl text-center   font-bold poppins-b lg:text-3xl  " data-aos="fade-up"
             data-aos-duration="1000" >
        OUR PARTNER  </h2>
         {/* <h1

@@ -8,8 +8,8 @@ const Services = () => {
     <div className=" py-10">
 
 <div class="section-title">
-            <h1 className='text-center text-2xl font-bold'>OUR SERVICES</h1>
-            <p className='text-center text-xl font-bold py-7'>
+            <h1 className='text-center text-3xl font-bold'>OUR SERVICES</h1>
+            <p className='text-center text-xl font-normal py-7'>
             At SAM Technology and Business, we pride ourselves on delivering comprehensive solutions tailored to meet the diverse needs of our customers. We prioritize swift delivery for all equipment and machinery purchases that are available in stock, ensuring they are dispatched as quickly as possible in accordance with the chosen purchasing method. This robust inventory management system enables us to meet our customers' needs promptly and reliably. Our services include:
             </p>
           </div>

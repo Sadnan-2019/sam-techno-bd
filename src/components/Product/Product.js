@@ -19,8 +19,8 @@ const Product = () => {
      return (
           <div>
                 <div class="section-title">
-            <h2 className='text-center text-2xl font-bold'>OUR PRODUCT</h2>
-            <p className='text-center text-xl font-bold py-7'>
+            <h2 className='text-center text-3xl font-bold'>OUR PRODUCT</h2>
+            <p className='text-center text-xl font-normal py-7'>
             Our dedicated professionals consistently maintain a large inventory of our products to ensure quick and efficient service. Light equipment and instruments are housed in our store at Center Point, Mohammadpur, Dhaka. For heavier machinery, our storage facility in Saymolly Square, Dhaka, is utilized. This robust inventory management system enables us to meet our customers' needs promptly and reliably.
             
             </p>
