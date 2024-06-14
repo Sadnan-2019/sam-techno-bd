@@ -2,6 +2,10 @@ import React from 'react';
 import Marquee from 'react-fast-marquee';
 import partner1 from "../../assets/hcah.png"
 import partner2 from "../../assets/galay.png"
+import partner3 from "../../assets/sars.png"
+import partner4 from "../../assets/du.png"
+import partner5 from "../../assets/daff.png"
+import partner6 from "../../assets/infitek.png"
 const Partner = () => {
      return (
           <div>
@@ -28,7 +32,37 @@ const Partner = () => {
             alt="Shoes"
             className="  w-52  rounded-full  "
           />
-         </div></Marquee>
+         </div>
+         <div className="  	  	 mx-10">
+          <img
+            src={partner3}
+            alt="Shoes"
+            className="w-52"
+          />
+         </div>
+         <div className="  	  	 mx-10">
+          <img
+            src={partner4}
+            alt="Shoes"
+            className="w-52 "
+          />
+         </div>
+         <div className="  	  	 mx-10">
+          <img
+            src={partner5}
+            alt="Shoes"
+            className="w-52"
+          />
+         </div>
+         <div className="  	  	 mx-10">
+          <img
+            src={partner6}
+            alt="Shoes"
+            className="w-52"
+          />
+         </div>
+         
+         </Marquee>
           </div>
      );
 };

@@ -19,7 +19,12 @@ const Footer = () => {
               
             </a>
             <p class="text-justify">
-            SamTecnobd is a collection of UI Components created using Tailwind CSS Framework. The UI Components gives you all of the building blocks you need to build any designs without any annoying opinionated styles you have to fight to override.
+            At SAM Technology and Business, we pride ourselves on delivering comprehensive solutions.
+            +880 1736-776387
+            www.samtechnobd.com
+            3rd Floor, 14 PC Culture
+            Building, Mirpur Road, Shyamoli, Dhaka-1207
+
             </p>
           </div>
 
@@ -39,11 +44,11 @@ const Footer = () => {
               <h2 class="inline-block text-2xl pb-4 mb-4 border-b-4 border-blue-600">Blog</h2>
             </div>
             <ul class="leading-8">
-              <li><a href="#" class="hover:text-blue-400">Getting Started With HTML and CSS</a></li>
-              <li><a href="#" class="hover:text-blue-400">What Is Flex And When to Use It?</a></li>
-              <li><a href="#" class="hover:text-blue-400">How TailwindCSS Can Help Your Productivity?</a></li>
-              <li><a href="#" class="hover:text-blue-400">5 Tips to Make Responsive Website</a></li>
-              <li><a href="#" class="hover:text-blue-400">See More</a></li>
+              <li><a href="#" class="hover:text-blue-400">Getting Started With Lab Equipment</a></li>
+              <li><a href="#" class="hover:text-blue-400">What Is Quality & Quality Assurance?</a></li>
+              <li><a href="#" class="hover:text-blue-400">How to Order from SAM Technology and Business?</a></li>
+              <li><a href="#" class="hover:text-blue-400">5 Tips to Make Better Order</a></li>
+              <li><a href="#" class="hover:text-blue-400">Let's talk</a></li>
             </ul>
           </div>
           <div class="px-4 my-4 w-full sm:w-auto xl:w-1/5">

@@ -2,7 +2,6 @@ import React, { useRef } from "react";
 import "react-toastify/dist/ReactToastify.css";
 import emailjs from "@emailjs/browser";
 import { toast } from "react-toastify";
-import "./Contact.css"
 
 const Contact = () => {
   const form = useRef();
@@ -30,22 +29,6 @@ const Contact = () => {
 
   return (
     <div>
-<div className="min-h-screen bg-cover bg-center bg-no-repeat contact"  >
-      
-    </div>
-    <div className="min-h-screen flex items-center justify-center bg-cover bg-center bg-no-repeat contact"  >
-      <div className="bg-black bg-opacity-50 p-10 rounded-md">
-        <h1 className="text-white text-4xl">Welcome to My Website</h1>
-        <p className="text-white mt-4">This is a responsive background image using Tailwind CSS.</p>
-      </div>
-    </div>
-
-
-
-
-
-
-
       <section class=" " id="contact">
         <div class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8 lg:py-20">
           <div class="mb-4">
@@ -59,9 +42,7 @@ const Contact = () => {
             <div class="grid md:grid-cols-2">
               <div class="h-full pr-6">
                 <p class="mt-3 mb-12 text-lg text-gray-600 dark:text-slate-400">
-                  Class aptent taciti sociosqu ad litora torquent per conubia
-                  nostra, per inceptos himenaeos. Duis nec ipsum orci. Ut
-                  scelerisque sagittis ante, ac tincidunt sem venenatis ut.
+                We will usually contact you within 24 hours. You could also call us (+88 01736776387) during working hours ( 9:30 am to 5:45 pm UTC+6. ) or use the whatsapp live chat on our website to get prompt reply.
                 </p>
                 <ul class="mb-6 md:mb-0">
                   <li class="flex">
@@ -118,7 +99,7 @@ const Contact = () => {
                         Contact
                       </h3>
                       <p class="text-gray-600 dark:text-slate-400">
-                        Mobile: ++8801736776387
+                        Mobile: +8801736776387
                       </p>
                       <p class="text-gray-600 dark:text-slate-400">
                         Mail: samtandb2022@gmail.com

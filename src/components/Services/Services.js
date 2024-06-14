@@ -8,12 +8,9 @@ const Services = () => {
     <div className=" py-10">
 
 <div class="section-title">
-            <h2 className='text-center text-2xl font-bold'>OUR SERVICES</h2>
+            <h1 className='text-center text-2xl font-bold'>OUR SERVICES</h1>
             <p className='text-center text-xl font-bold py-7'>
-              Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-              ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-              quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-              Quia fugiat sit in iste officiis commodi quidem hic quas.
+            At SAM Technology and Business, we pride ourselves on delivering comprehensive solutions tailored to meet the diverse needs of our customers. We prioritize swift delivery for all equipment and machinery purchases that are available in stock, ensuring they are dispatched as quickly as possible in accordance with the chosen purchasing method. This robust inventory management system enables us to meet our customers' needs promptly and reliably. Our services include:
             </p>
           </div>
       <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2    lg:px-8 gap-10      ">

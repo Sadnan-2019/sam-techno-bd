@@ -21,10 +21,8 @@ const Product = () => {
                 <div class="section-title">
             <h2 className='text-center text-2xl font-bold'>OUR PRODUCT</h2>
             <p className='text-center text-xl font-bold py-7'>
-              Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-              ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-              quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-              Quia fugiat sit in iste officiis commodi quidem hic quas.
+            Our dedicated professionals consistently maintain a large inventory of our products to ensure quick and efficient service. Light equipment and instruments are housed in our store at Center Point, Mohammadpur, Dhaka. For heavier machinery, our storage facility in Saymolly Square, Dhaka, is utilized. This robust inventory management system enables us to meet our customers' needs promptly and reliably.
+            
             </p>
           </div>
 
