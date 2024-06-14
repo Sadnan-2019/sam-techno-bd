@@ -30,15 +30,7 @@ const Contact = () => {
 
   return (
     <div>
-<div className="min-h-screen bg-cover bg-center bg-no-repeat contact"  >
-      
-    </div>
-    <div className="min-h-screen flex items-center justify-center bg-cover bg-center bg-no-repeat contact"  >
-      <div className="bg-black bg-opacity-50 p-10 rounded-md">
-        <h1 className="text-white text-4xl">Welcome to My Website</h1>
-        <p className="text-white mt-4">This is a responsive background image using Tailwind CSS.</p>
-      </div>
-    </div>
+ 
 
 
 

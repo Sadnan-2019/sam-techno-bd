@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div>
       <div className="about">
-        <div class="h-screen w-full dark:bg-gray-800">
+        <div class="  w-full dark:bg-gray-800">
           <section class="flex flex-col justify-center max-w-7xl px-4 py-10 mx-auto sm:px-6">
             <h2 class="mb-6 text-2xl text-center font-bold text-gray-100 md:text-3xl dark:text-white">
               ABOUT US
