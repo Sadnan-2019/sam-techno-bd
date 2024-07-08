@@ -81,10 +81,10 @@ const Nav = () => {
       <div className="sticky top-0 z-50 header">
         {/* ////////////////new nav  */}
 
-        <nav className="lg:bg-gray-100 shadow-lg border-l-gray-100 p-4">
+        <nav className="lg:bg-gray-100 shadow-lg border-l-gray-100 p-4" >
           <div className="container mx-auto flex justify-between items-center">
-            <div className="text-white font-semibold text-xl">
-              {/* <img src={logo} className="w-24 rounded-lg" alt="" /> */}
+            <div className="text-blue-900 font-semibold text-xl">
+      sfnsfnkndsnnnnscnsdvm
             </div>
             <div className="hidden md:flex space-x-4">
               {/* Add other sections here */}
