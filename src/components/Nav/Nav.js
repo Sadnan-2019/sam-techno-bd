@@ -74,6 +74,15 @@ const Nav = () => {
           CONTACTS
         </NavLink>
       </li>
+      <li className="dropdown dropdown-hover hover:border-none   nav-item p-2 list-none  text-white    ">
+        <NavLink
+          className="mx-1 text-white-600   font-bold   p-0 lg:text-blue-800"
+          // onClick={gotoContact}
+          to="/login"
+        >
+          LOGIN
+        </NavLink>
+      </li>
     </>
   );
   return (

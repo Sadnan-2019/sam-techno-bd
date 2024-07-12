@@ -8,6 +8,7 @@ import Footer from './components/Footer/Footer';
 import AllProduct from './components/AllProduct/AllProduct';
 import { ToastContainer } from 'react-toastify';
 import MoreProductDetails from './components/MoreProductDetails/MoreProductDetails';
+import Register from './components/Register/Register';
 
 function App() {
   return (
@@ -23,7 +24,7 @@ function App() {
           path="/product-details/:id"
           element={<MoreProductDetails />}
         ></Route>
-        
+           <Route path="/login" element={<Register />}></Route>
       </Routes>
       <Footer></Footer>
       <ToastContainer></ToastContainer>
