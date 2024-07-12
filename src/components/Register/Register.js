@@ -25,7 +25,7 @@ const Register = () => {
    const {
      register,
      formState: { errors },
-     handleSubmit,
+     handleSubmit,reset,
    } = useForm();
  
    const navigate = useNavigate();
@@ -36,6 +36,7 @@ const Register = () => {
      console.log("Update done");
      // navigate("/appoinment");
      // veryfyEmail();
+     reset();
    };
  
 
