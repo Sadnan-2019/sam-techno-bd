@@ -87,12 +87,12 @@ const Register = () => {
                     />
                     <label className="label">
                       {errors.email?.type === "required" && (
-                        <span className="label-text-alt text-red-500" role="alert">
+                        <span className="label-text-alt font-bold text-lg text-red-500" role="alert">
                           {errors.email.message}
                         </span>
                       )}
                       {errors.email?.type === "pattern" && (
-                        <span className="label-text-alt text-red-500" role="alert">
+                        <span className="label-text-alt font-bold text-lg text-red-500" role="alert">
                           {errors.email.message}
                         </span>
                       )}
@@ -116,7 +116,7 @@ const Register = () => {
                     />
                     <label className="label">
                       {errors.name?.type === "required" && (
-                        <span className="label-text-alt text-red-500" role="alert">
+                        <span className="label-text-alt font-bold text-lg text-red-500" role="alert">
                           {errors.name.message}
                         </span>
                       )}
@@ -145,12 +145,12 @@ const Register = () => {
                     />
                     <label className="label">
                       {errors.password?.type === "required" && (
-                        <span className="label-text-alt text-red-500" role="alert">
+                        <span className="label-text-alt font-bold text-lg text-red-500" role="alert">
                           {errors.password.message}
                         </span>
                       )}
                       {errors.password?.type === "minLength" && (
-                        <span className="label-text-alt text-red-500" role="alert">
+                        <span className="label-text-alt font-bold text-lg text-red-500" role="alert">
                           {errors.password.message}
                         </span>
                       )}
